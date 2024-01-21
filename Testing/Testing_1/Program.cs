@@ -12,8 +12,11 @@ namespace S10257825_PRG2Assignment
         static void Main(string[] args)
         {
 
+
             Console.WriteLine("Hello World!");
             Console.WriteLine("Doing option 2.");
+
+            Console.WriteLine("Kesh will be doing Option1");
 
             Console.ReadLine();
 
